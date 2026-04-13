@@ -38,4 +38,3 @@ TODO
 
 ---
 
-> _"Aproximando tecnologia de ponta e design centrado no ser humano para transformar ciência e sociedade."_
